@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Kauan!
 
-🎓 Estudante de **Sistemas de Informação**  
+🎓 Estudante de **Sistemas de Informação na PUC Minas**  
 💻 **Analista de Suporte de TI**  
 🚀 Em transição para **Desenvolvimento Backend**
 
@@ -73,6 +73,7 @@ Construir uma carreira como **Desenvolvedor Backend**, unindo minha experiência
 # 🔗 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-9812672a9/)
+📧E-mail: santoskauan78910@gmail.com
 
 ⭐ Este perfil acompanha minha evolução nos estudos e projetos de desenvolvimento.
 :::
