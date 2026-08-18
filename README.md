@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 Olá! Eu sou o Kauan 👋
 
 🎓 Estudante de Sistemas de Informação
@@ -46,4 +43,3 @@ Construir uma carreira como Desenvolvedor Backend, unindo minha experiência pro
 LinkedIn: https://www.linkedin.com/in/kauan-santos-9812672a9/
 
 ⭐ Este perfil acompanha minha evolução nos estudos e projetos de desenvolvimento.
--->
