@@ -72,7 +72,7 @@ Construir uma carreira como **Desenvolvedor Backend**, unindo minha experiência
 
 # 🔗 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-9812672a9/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-santos-9812672a9/)
 
 ⭐ Este perfil acompanha minha evolução nos estudos e projetos de desenvolvimento.
 :::
