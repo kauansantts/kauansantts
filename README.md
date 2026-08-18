@@ -1,5 +1,5 @@
 Olá! Eu sou o Kauan 👋
-
+```text
 🎓 Estudante de Sistemas de Informação
 💻 Analista de Suporte de TI
 🚀 Em transição para Desenvolvimento Backend
