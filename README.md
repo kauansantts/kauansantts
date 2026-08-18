@@ -1,4 +1,3 @@
-:::writing{variant="document" id="64127" title="README do perfil GitHub — Kauan"}
 # 👋 Olá, eu sou o Kauan!
 
 🎓 Estudante de **Sistemas de Informação**  
